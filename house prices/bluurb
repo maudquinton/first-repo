@@ -1,1 +1,3 @@
-
+I think the modelling in this dataset really helped me to see the relationships between features because there were so many to consider. 
+Making the features into conjoined variables made a lot of difference when comparing models because there was a lot of empty entries in some of them.
+This is also the first time I used a log-transformation for my target variable.
